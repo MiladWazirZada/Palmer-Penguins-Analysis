@@ -48,7 +48,7 @@ mu, sigma = st.norm.fit(valid_bill_length)
 x = np.linspace(np.nanmin(bill_l_mm) - 0.5, np.nanmax(bill_l_mm) + 0.5, 50)
 
 # Plot the Linear Space & PDF
-plt.plot(x, st.norm(mu, sigma).pdf(x), label="Fitted Gaussian")
+plt.plot(x, st.norm(mu, sigma).pdf(x), label="Gaussian")
 plt.hist(bill_l_mm, density=True, bins=60, label="Histogram")
 plt.xlabel("Bill Length in mm")
 plt.ylabel("Probability Density")
