@@ -11,7 +11,8 @@ First I printed out all information about it and its correlations. To avoid the 
 
 ![image](https://github.com/MiladWazirZada/Palmer-Penguins-Analysis/assets/82714284/4ffb95a0-4213-4a36-85cd-e6e33483a783)
 
-This graph shows the number of occurences refering to their bill length. Nothing particularly special, but the graph can be interpreted as two different Gaussian distributions or as one whole one. Firstly, I plotted it as if it was a normal Gaussian distribution:
+This graph shows the number of occurences refering to their bill length. Nothing particularly special, but the graph can be interpreted as two different Gaussian distributions or as one whole one. <br />
+Firstly, I plotted it as if it was a normal Gaussian distribution:
 
 ![image](https://github.com/MiladWazirZada/Palmer-Penguins-Analysis/assets/82714284/e7c28c46-49f8-4bdf-9419-0b688c24033f)
 
