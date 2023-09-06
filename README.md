@@ -7,3 +7,5 @@ Since it was my first attempt at analyzing a Data Set, I focused on one variable
 ## Bill Length
 As already told, I focused on one variable and that one was the Bill Length, which was a Float-Value represented in Millimeters (in the file it was called "bill_length_mm").
 First I printed out all information about it and its correlations. To avoid the problems of NaN-Values I had to use the nan-methods, because there were some entities without any specific details. 
+
+![image](https://github.com/MiladWazirZada/Palmer-Penguins-Analysis/assets/82714284/4ffb95a0-4213-4a36-85cd-e6e33483a783)
