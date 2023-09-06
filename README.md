@@ -37,3 +37,5 @@ This observation strongly suggests that the disparities evident in the first gra
 ## Body Mass
 
 Towards the end of the document, I have presented data illustrating the average body mass (in g) across the different years. This was mainly to try out Matplotlibs different vizualisation strategies.
+![image](https://github.com/MiladWazirZada/Palmer-Penguins-Analysis/assets/82714284/91252560-91b3-4a48-955e-c4e0cfaea14b)
+
