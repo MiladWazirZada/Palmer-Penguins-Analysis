@@ -21,7 +21,7 @@ Firstly, I plotted it as if it was a normal Gaussian distribution:
 ## But what if it is a bimodal distribution?
 I've tried linking it to either their evlolution over the years or their gender. <br />
 
-#### Over the years:
+### Over the years:
 
 ![image](https://github.com/MiladWazirZada/Palmer-Penguins-Analysis/assets/82714284/b2389358-102c-4940-b026-ee66ba886c2c)
 
